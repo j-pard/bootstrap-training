@@ -10,3 +10,7 @@ h1, h2 {
 .bg-violet {
   background-color: violet;
 }
+
+.bg-lightgray {
+  background-color: #DDD;
+}
